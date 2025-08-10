@@ -115,4 +115,4 @@ An **innovative AI-powered watch platform** with machine learning capabilities a
 
 📩 **Let's Connect!**  
 📧 [Email Me](viceculjak.m1@gmail.com)  
-🌍 [Portfolio](https://Vice.site/) 
+🌍 [Portfolio](https://Vice.site/) # viceculjakporfoliosite
