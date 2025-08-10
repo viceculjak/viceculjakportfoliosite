@@ -12,6 +12,8 @@ const getStorageTheme = () =>{
     if(localStorage.getItem('theme')){
         theme = localStorage.getItem('theme');
     }
+    
+    return theme;
 }
 
 const Header = () => {
@@ -57,7 +59,7 @@ const Header = () => {
         <nav className="nav">
             <Link to='/' onClick={scrollTop} className="nav__logo text-cs">
                 <span>Vice </span>  
-                <span className='nav__logo__bg'>C.</span>
+                <span className='nav__logo__bg'>A.</span>
             </Link>
 
             <div className={`${showMenu ? 'nav__menu show-menu': 'nav__menu'}`}>
@@ -85,13 +87,13 @@ const Header = () => {
 
                     <div className="header__socials">
 
-                        <a href="https://www.linkedin.com/in/Viceatanasovde/" target='_blank' className="footer__social-links">
+                        <a href="https://www.linkedin.com/in/vice-culjak/" target='_blank' className="footer__social-links">
                             <FaLinkedin/>
                         </a>
-                        <a href="https://github.com/Viceatanasov1" target='_blank' className="footer__social-links">
+                        <a href="https://github.com/viceculjak" target='_blank' className="footer__social-links">
                             <FaGithub/>
                         </a>
-                        <a href="mailto:Vice@walls.agency" target='_blank' className="footer__social-links">
+                        <a href="viceculjak.m1@gmail.com" target='_blank' className="footer__social-links">
                             <FaMailchimp/>
                         </a>
 
