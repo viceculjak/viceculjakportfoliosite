@@ -14,9 +14,9 @@ const Footer = () => {
                 <a href="https://github.com/viceculjak" target='_blank' className="footer__social-links">
                     <FaGithub/>
                 </a>
-                <a href="viceculjak.m1@gmail.com" target='_blank' className="footer__social-links">
-                    <FaMailchimp/>
-                </a>
+                                    <a href="mailto:vice@vice.contact" target='_blank' className="footer__social-links">
+                        <FaMailchimp/>
+                    </a>
 
             </div>
   

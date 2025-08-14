@@ -1,6 +1,6 @@
 // Automatic sitemap.xml generator for SEO
 export class SitemapGenerator {
-  constructor(baseUrl = 'https://Vice.site') {
+  constructor(baseUrl = 'https://vice.contact') {
     this.baseUrl = baseUrl.replace(/\/$/, ''); // Remove trailing slash
     this.pages = [];
     this.lastGenerated = null;

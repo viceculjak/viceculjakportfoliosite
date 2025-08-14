@@ -89,7 +89,7 @@ Skills: "react expert", "next.js specialist", "ai integration developer"
 - **Senior developer** positioning (4+ years experience)
 - **Specialized expertise** in FinTech and AI
 - **Portfolio showcases** 15+ real projects
-- **Professional contact** (contact@devdone.io)
+- **Professional contact** (vice@vice.contact)
 
 ### 3. **Technical Authority**
 - **Modern tech stack** (React, Next.js, TypeScript)

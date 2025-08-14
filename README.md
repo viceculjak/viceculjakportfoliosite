@@ -1,4 +1,4 @@
-# Hi there, I'm R A. 👋
+# Hi there, I'm Vice C. 👋
 
 ### Frontend & Student
 
@@ -45,7 +45,7 @@ Hey there! I'm R A, a passionate Frontend Developer with 3+ years of experience 
 
 ### 🎨 Personal Portfolio  
 My **personal portfolio** to showcase my skills, projects, and experience. Designed with **modern UI principles** and deployed on Vercel.  
-🔗 **Live Demo:** [Vice.site](https://Vice.site/)  
+🔗 **Live Demo:** [Vice.contact](https://vice.contact/)  
 
 ### 🏦 Global Finance Guarantee
 A **Tier-1 bank guarantee platform** built with **Next.js, Tailwind CSS, and TypeScript**. Offers bank guarantees, SBLCs, and Letters of Credit.  
@@ -114,5 +114,5 @@ An **innovative AI-powered watch platform** with machine learning capabilities a
 ---
 
 📩 **Let's Connect!**  
-📧 [Email Me](viceculjak.m1@gmail.com)  
-🌍 [Portfolio](https://Vice.site/) # viceculjakporfoliosite
+📧 [Email Me](vice@vice.contact)  
+🌍 [Portfolio](https://vice.contact/) # viceculjakporfoliosite

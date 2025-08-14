@@ -5,8 +5,8 @@ const SEOHead = ({
   title = "Vice C. - Senior Full Stack Developer | React, Next.js, TypeScript Expert",
   description = "Senior Full Stack Developer with 4+ years experience. Expert in React, Next.js, TypeScript, Python. Specializing in FinTech, AI integration, and enterprise solutions. Available for hire.",
   keywords = "full stack developer, react developer, next.js expert, typescript developer, fintech developer, ai integration, web development, freelance developer, bulgaria developer, senior developer",
-  image = "https://Vice.site/og-image.jpg",
-  url = "https://Vice.site",
+  image = "https://vice.contact/og-image.jpg",
+  url = "https://vice.contact",
   type = "website"
 }) => {
   const structuredData = {
@@ -62,7 +62,7 @@ const SEOHead = ({
     },
     "contactPoint": {
       "@type": "ContactPoint",
-      "email": "contact@devdone.io",
+      "email": "vice@vice.contact",
       "contactType": "customer service",
       "availableLanguage": ["English", "Bulgarian"]
     }
@@ -81,7 +81,7 @@ const SEOHead = ({
     "description": "Professional web development services specializing in modern technologies",
     "contactPoint": {
       "@type": "ContactPoint",
-      "email": "contact@devdone.io",
+      "email": "vice@vice.contact",
       "contactType": "customer service"
     },
     "areaServed": "Worldwide",

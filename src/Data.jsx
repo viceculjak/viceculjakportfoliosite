@@ -275,7 +275,7 @@ export const projects = [
     category: 'Portfolio',
     title: 'Personal Portfolio',
     description: 'Modern portfolio website showcasing skills, projects, and experience with React and modern animations.',
-    link: 'https://Vice.site',
+    link: 'https://vice.contact',
     tech: ['React', 'Vite', 'Framer Motion', 'Modern UI']
   }
 ];
