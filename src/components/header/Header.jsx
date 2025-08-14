@@ -59,7 +59,7 @@ const Header = () => {
         <nav className="nav">
             <Link to='/' onClick={scrollTop} className="nav__logo text-cs">
                 <span>Vice </span>  
-                <span className='nav__logo__bg'>A.</span>
+                <span className='nav__logo__bg'>C.</span>
             </Link>
 
             <div className={`${showMenu ? 'nav__menu show-menu': 'nav__menu'}`}>

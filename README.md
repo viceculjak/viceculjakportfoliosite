@@ -1,8 +1,8 @@
 # Hi there, I'm Vice C. 👋
 
-### Frontend & Student
+### Senior Full Stack Developer
 
-Hey there! I'm R A, a passionate Frontend Developer with 3+ years of experience crafting engaging, high-performance websites. Whether it's building sleek UIs with Vue.js or optimizing styles with Tailwind CSS, I love turning ideas into interactive web experiences
+Hey there! I'm Vice C., a passionate Senior Full Stack Developer with 4+ years of experience crafting engaging, high-performance web applications. Whether it's building FinTech platforms with Next.js or integrating AI features with modern frameworks, I love turning complex ideas into scalable, production-ready solutions.
 
 ---
 
@@ -100,6 +100,26 @@ A **professional cargo and logistics management platform** with tracking and sch
 An **innovative AI-powered watch platform** with machine learning capabilities and modern interface.  
 🔗 **Live Demo:** [ViWatch AI](https://viwatchai.com/)  
 
+---
+## 💼 Experience
+
+**Senior Full Stack Developer** at DevDone.io (2022 - Present)  
+Leading development of complex web applications using Next.js, TypeScript, and modern frameworks. Specializing in FinTech solutions, AI integration, and scalable architecture design.
+
+**Full Stack Developer** - Freelance & Agency Work (2021 - Present)  
+Delivered 14+ successful projects including banking platforms, e-commerce solutions, and AI-powered applications. Expertise in React, Next.js, Python, and modern development practices.
+
+**Frontend Specialist** at Walls Agency (2021 - 2022)  
+Developed responsive web applications using Vue.js and React. Focused on creating pixel-perfect designs and optimizing user experience across multiple client projects.
+
+---
+## 🎯 Services
+
+- **Full Stack Development** - Modern web applications with Next.js, React, TypeScript
+- **FinTech Solutions** - Banking platforms and financial applications
+- **AI Integration** - Machine learning and AI features for web applications
+- **Enterprise Solutions** - Business process automation and custom applications
+- **DevOps & Deployment** - Cloud infrastructure and CI/CD pipelines
 
 ---
 
