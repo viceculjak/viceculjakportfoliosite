@@ -2,8 +2,8 @@ import React from 'react';
 import { Helmet } from 'react-helmet-async';
 
 const SEOHead = ({ 
-  title = "Vice C. - Senior Full Stack Developer | React, Next.js, TypeScript Expert",
-  description = "Senior Full Stack Developer with 4+ years experience. Expert in React, Next.js, TypeScript, Python. Specializing in FinTech, AI integration, and enterprise solutions. Available for hire.",
+  title = "Vice C. - Program Director & Full-Stack Developer | FinTech & Biotech Expert",
+  description = "Innovative entrepreneur and Program Director with 5+ years experience. Expert in Next.js 15, TypeScript, Laravel. Specializing in FinTech platforms, biotech research systems, and strategic program direction. Available for hire.",
   keywords = "full stack developer, react developer, next.js expert, typescript developer, fintech developer, ai integration, web development, freelance developer, bulgaria developer, senior developer",
   image = "https://vice.contact/og-image.jpg",
   url = "https://vice.contact",
@@ -14,7 +14,7 @@ const SEOHead = ({
     "@type": "Person",
     "name": "Vice ",
     "alternateName": "Vice C.",
-    "jobTitle": "Senior Full Stack Developer",
+    "jobTitle": "Program Director & Full-Stack Developer",
     "description": description,
     "url": url,
     "image": image,
@@ -24,41 +24,41 @@ const SEOHead = ({
     ],
     "knowsAbout": [
       "React.js",
-      "Next.js", 
+      "Next.js 15", 
       "TypeScript",
-      "Python",
-      "Full Stack Development",
-      "FinTech Solutions",
-      "AI Integration",
-      "Web Development"
+      "Laravel",
+      "FinTech Platform Development",
+      "Biotech Research Systems",
+      "Trade Finance",
+      "Strategic Program Direction"
     ],
     "hasOccupation": {
       "@type": "Occupation",
-      "name": "Full Stack Developer",
+      "name": "Program Director & Full-Stack Developer",
       "occupationLocation": {
         "@type": "Country",
-        "name": "Bulgaria"
+        "name": "Croatia"
       },
       "skills": [
-        "React Development",
-        "Next.js Development", 
+        "FinTech Platform Development",
+        "Next.js 15 Development", 
         "TypeScript Programming",
-        "Python Development",
-        "Database Design",
-        "API Development",
-        "UI/UX Design",
-        "DevOps"
+        "Laravel Development",
+        "Biotech Research Systems",
+        "Trade Finance Solutions",
+        "Strategic Program Direction",
+        "Cross-border Project Management"
       ]
     },
     "offers": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Web Development Services",
-        "description": "Professional web development services including frontend, backend, and full-stack solutions"
+        "name": "FinTech & Biotech Platform Development",
+        "description": "Professional FinTech platform development, biotech research systems, and strategic program direction services"
       },
       "availability": "InStock",
-      "priceRange": "€799-€5999"
+      "priceRange": "€1500-€15000"
     },
     "contactPoint": {
       "@type": "ContactPoint",
@@ -71,14 +71,14 @@ const SEOHead = ({
   const organizationData = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "DevDone.io",
+    "name": "ViraChemical",
     "founder": {
       "@type": "Person",
       "name": "Vice "
     },
     "url": url,
     "logo": `${url}/logo.png`,
-    "description": "Professional web development services specializing in modern technologies",
+    "description": "Professional FinTech platform development and biotech research systems",
     "contactPoint": {
       "@type": "ContactPoint",
       "email": "vice@vice.contact",
@@ -86,11 +86,11 @@ const SEOHead = ({
     },
     "areaServed": "Worldwide",
     "serviceType": [
-      "Web Development",
-      "Full Stack Development", 
-      "FinTech Solutions",
-      "AI Integration",
-      "Enterprise Solutions"
+      "FinTech Platform Development",
+      "Biotech Research Systems", 
+      "Trade Finance Solutions",
+      "Strategic Program Direction",
+      "Cross-border Project Management"
     ]
   };
 
@@ -116,7 +116,7 @@ const SEOHead = ({
       <meta property="og:image" content={image} />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
-      <meta property="og:site_name" content="Vice C. - Full Stack Developer" />
+      <meta property="og:site_name" content="Vice C. - Program Director & Full-Stack Developer" />
       <meta property="og:locale" content="en_US" />
 
       {/* Twitter */}
@@ -140,10 +140,10 @@ const SEOHead = ({
       <meta name="mobile-web-app-capable" content="yes" />
 
       {/* Geo Tags */}
-      <meta name="geo.region" content="BG" />
-      <meta name="geo.country" content="Bulgaria" />
-      <meta name="geo.position" content="42.6977;23.3219" />
-      <meta name="ICBM" content="42.6977, 23.3219" />
+      <meta name="geo.region" content="HR" />
+      <meta name="geo.country" content="Croatia" />
+      <meta name="geo.position" content="43.5081;16.4402" />
+      <meta name="ICBM" content="43.5081, 16.4402" />
 
       {/* Business/Professional Tags */}
       <meta name="classification" content="Business" />

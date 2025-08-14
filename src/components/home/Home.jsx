@@ -30,7 +30,7 @@ const Home = () => {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6, delay: 0.4 }}
                     className="home__job">
-                    <span className="text-cs">I Am </span><b>Senior Full Stack Developer</b>
+                    <span className="text-cs">I Am </span><b>Program Director & Full-Stack Developer</b>
                 </motion.p>
 
                 <motion.div 
@@ -47,7 +47,7 @@ const Home = () => {
                         animate={{ opacity: 1, x: 0 }}
                         transition={{ duration: 0.6, delay: 1.2 }}
                         className="home__data home__data-one">
-                        <span className="text-lg">4 <b>+</b></span>
+                        <span className="text-lg">5 <b>+</b></span>
                         <span className="text-sm text-cs">Years of <span>Experience</span></span>
                     </motion.p>
 
@@ -56,7 +56,7 @@ const Home = () => {
                         animate={{ opacity: 1, x: 0 }}
                         transition={{ duration: 0.6, delay: 1.4 }}
                         className="home__data home__data-two">
-                        <span className="text-lg">15+</span>
+                        <span className="text-lg">20+</span>
                         <span className="text-sm text-cs">Completed <span>Projects</span></span>
                     </motion.p>
 
@@ -69,7 +69,7 @@ const Home = () => {
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6, delay: 0.6 }}
-                    className="home__text">Senior Full Stack Developer with 4+ years of experience specializing in modern web technologies. Expert in React, Next.js, TypeScript, and Python, with a proven track record of delivering high-quality FinTech, AI-powered, and enterprise solutions.</motion.p>
+                    className="home__text">Innovative entrepreneur and Program Director with 5+ years of experience specializing in FinTech platforms, biotech research systems, and strategic program direction. Expert in Next.js 15, TypeScript, and Laravel, with proven track record in trade finance, EU-compliant platforms, and cross-border project management.</motion.p>
                 
                 <motion.div 
                     initial={{ opacity: 0, y: 20 }}

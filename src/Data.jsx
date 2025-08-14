@@ -53,47 +53,47 @@ export const links = [
 export const services = [
   {
     id: 1,
-    name: 'Full Stack Development',
-    title: 'Modern Web Applications',
+    name: 'FinTech Platform Development',
+    title: 'Banking & Trade Finance Solutions',
     description:
-      'Building scalable, high-performance web applications using Next.js, React, TypeScript, and modern backend technologies. Specializing in responsive design and optimal user experience.',
+      'Building secure, SEO-optimized fintech platforms specializing in bank guarantees, SBLCs, and trade finance. Integrated with Next.js 15, TypeScript, and advanced security protocols.',
   },
   {
     id: 2,
-    name: 'FinTech Solutions',
-    title: 'Banking & Financial Platforms',
+    name: 'Biotech & Research Platforms',
+    title: 'EU-Compliant Distribution Systems',
     description:
-      'Developing secure financial applications, banking platforms, and payment systems with advanced security measures, real-time data processing, and regulatory compliance.',
+      'Developing compliant research compound distribution platforms for biotech and pharmaceutical markets. Full-stack solutions with security, catalog management, and regulatory compliance.',
   },
   {
     id: 3,
-    name: 'AI Integration',
-    title: 'Machine Learning & AI Features',
+    name: 'E-commerce & Medical Platforms',
+    title: 'Secure Healthcare Solutions',
     description:
-      'Integrating AI and machine learning capabilities into web applications, creating intelligent user experiences, and building data-driven solutions with modern AI frameworks.',
+      'Building comprehensive e-commerce systems for medical stores with tRPC, PostgreSQL, and multi-layer security. Custom admin panels and user-facing interfaces.',
   },
   {
     id: 4,
-    name: 'Enterprise Solutions',
-    title: 'Business Process Automation',
+    name: 'AI-Powered Applications',
+    title: 'Machine Learning Integration',
     description:
-      'Creating custom enterprise applications, workflow automation, and business intelligence tools that streamline operations and improve productivity.',
+      'Developing AI-powered consumer platforms with machine learning capabilities, modern UI, and intelligent user experiences for various industries.',
   },
   {
     id: 5,
-    name: 'DevOps & Deployment',
-    title: 'Cloud Infrastructure & CI/CD',
+    name: 'Strategic Program Direction',
+    title: 'End-to-End Project Leadership',
     description:
-      'Setting up robust deployment pipelines, cloud infrastructure management, and ensuring optimal performance with modern DevOps practices and monitoring.',
+      'Leading complete project lifecycles from concept to launch, including SEO strategy, lead generation architecture, and cross-border project management.',
   },
 ];
 
 export const skills = [
   {
     id: 1,
-    name: 'Next.js',
+    name: 'Next.js 15',
     percentage: 95,
-    description: 'Advanced React framework for production-ready applications',
+    description: 'Latest React framework for production-ready fintech applications',
   },
   {
     id: 2,
@@ -115,39 +115,39 @@ export const skills = [
   },
   {
     id: 5,
-    name: 'Python/Django',
+    name: 'Laravel/PHP',
     percentage: 85,
-    description: 'Backend development and API creation',
+    description: 'Backend development and e-commerce solutions',
   },
   {
     id: 6,
     name: 'PostgreSQL',
-    percentage: 80,
+    percentage: 85,
     description: 'Advanced database design and optimization',
   },
   {
     id: 7,
     name: 'tRPC',
-    percentage: 85,
+    percentage: 90,
     description: 'Type-safe APIs and full-stack development',
   },
   {
     id: 8,
-    name: 'ShadCN UI',
-    percentage: 90,
-    description: 'Modern component library and design systems',
+    name: 'MySQL',
+    percentage: 80,
+    description: 'Database management and optimization',
   },
   {
     id: 9,
-    name: 'Framer Motion',
+    name: 'Cybersecurity',
     percentage: 85,
-    description: 'Advanced animations and micro-interactions',
+    description: 'CSRF, XSS, SQL Injection, IDOR protection',
   },
   {
     id: 10,
-    name: 'Web3/Blockchain',
-    percentage: 75,
-    description: 'Smart contracts and decentralized applications',
+    name: 'SEO Strategy',
+    percentage: 90,
+    description: 'Search engine optimization and lead generation',
   }
 ];
 
@@ -283,56 +283,56 @@ export const projects = [
 export const cv = [
   {
     id: 1,
-    title: 'Software Engineering',
-    subtitle: 'Self-Taught & Continuous Learning',
-    date: '2021 - Present',
+    title: 'BSc in Finance',
+    subtitle: 'Faculty of Economics, University of Rijeka (EFRI), Croatia',
+    date: 'In Progress',
     description:
-      'Continuously expanding knowledge in modern web technologies, focusing on React, Next.js, TypeScript, and full-stack development through hands-on projects and industry best practices.',
+      'Currently pursuing a Bachelor of Science in Finance, combining academic knowledge with practical experience in fintech and financial platforms.',
     category: 'education',
   },
   {
     id: 2,
-    title: 'CY Hristov Botev',
-    subtitle: 'High School Graduate',
+    title: 'High School Diploma',
+    subtitle: 'Archdiocesan Classical High School "Don Frane Bulić" – Split, Croatia',
     date: '2020 - 2023',
     description:
-      'Completed secondary education while simultaneously building a career in web development and gaining practical experience in software engineering.',
+      'Completed secondary education with focus on classical studies and academic excellence.',
     category: 'education',
   },
   {
     id: 3,
-    title: 'Senior Full Stack Developer',
-    subtitle: 'DevDone.io',
-    date: '2022 - Present',
+    title: 'Program Director & Full-Stack Developer',
+    subtitle: 'Global Finance Guarantee – Bulgaria',
+    date: '2025 - Present',
     description:
-      'Leading development of complex web applications using Next.js, TypeScript, and modern frameworks. Specializing in FinTech solutions, AI integration, and scalable architecture design.',
+      'Directed the build and deployment of a modern, SEO-optimized fintech platform specializing in bank guarantees, SBLCs, and trade finance solutions. Integrated Next.js 15, TypeScript, Tailwind CSS, and Framer Motion.',
     category: 'experience',
   },
   {
     id: 4,
-    title: 'Full Stack Developer',
-    subtitle: 'Freelance & Agency Work',
-    date: '2021 - Present',
+    title: 'Founder & Full-Stack Developer',
+    subtitle: 'ViraChemical – Croatia',
+    date: '2025 - Present',
     description:
-      'Delivered 14+ successful projects including banking platforms, e-commerce solutions, and AI-powered applications. Expertise in React, Next.js, Python, and modern development practices.',
+      'Created an EU-compliant research compound distribution platform for biotech and pharmaceutical markets. Managed full-stack development, security, and backend infrastructure.',
     category: 'experience',
   },
   {
     id: 5,
-    title: 'Frontend Specialist',
-    subtitle: 'Walls Agency',
-    date: '2021 - 2022',
+    title: 'Full-Stack Developer',
+    subtitle: 'Master of Complications – Bulgaria',
+    date: '2025',
     description:
-      'Developed responsive web applications using Vue.js and React. Focused on creating pixel-perfect designs and optimizing user experience across multiple client projects.',
+      'Delivered a full-stack e-commerce system for medical store client with tRPC, PostgreSQL, and secure backend protocols. Built comprehensive admin panel and robust user-facing UI.',
     category: 'experience',
   },
   {
     id: 6,
     title: 'Web Developer',
-    subtitle: 'Various Clients',
-    date: '2020 - 2021',
+    subtitle: 'Various Clients (Kenya, Thailand, Bulgaria, Croatia)',
+    date: '2024 - 2025',
     description:
-      'Started career building websites and learning modern web technologies. Gained experience with HTML, CSS, JavaScript, and basic backend development.',
+      'Developed buatiprice.com and gdnsolution.com in Laravel/PHP/MySQL. Built AI-powered watch platform (viwatchai.com) with machine learning capabilities and modern UI.',
     category: 'experience',
   }
 ];

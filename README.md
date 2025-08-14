@@ -1,125 +1,135 @@
 # Hi there, I'm Vice C. 👋
 
-### Senior Full Stack Developer
+### Program Director & Full-Stack Developer
 
-Hey there! I'm Vice C., a passionate Senior Full Stack Developer with 4+ years of experience crafting engaging, high-performance web applications. Whether it's building FinTech platforms with Next.js or integrating AI features with modern frameworks, I love turning complex ideas into scalable, production-ready solutions.
+Hey there! I'm Vice C., an innovative entrepreneur and Program Director with 5+ years of experience specializing in FinTech platforms, biotech research systems, and strategic program direction. Based in Split, Croatia, I combine technical execution, business leadership, and scientific curiosity to create scalable, secure, and impactful solutions.
 
 ---
 
-### 🛠️ Stacks/Skills
+### 🛠️ Core Competencies
 
-**Frontend Development**  
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+**Technology Stack**  
+![Next.js 15](https://img.shields.io/badge/-Next.js%2015-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Web3 & Modern Tech**  
 ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=tRPC&logoColor=white)
-![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=flat-square&logo=nextauth&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/-ShadCN%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Business & Finance**  
+![FinTech](https://img.shields.io/badge/-FinTech-00D4AA?style=flat-square&logo=fintech&logoColor=white)
+![Trade Finance](https://img.shields.io/badge/-Trade%20Finance-1E3A8A?style=flat-square&logo=finance&logoColor=white)
+![SEO Strategy](https://img.shields.io/badge/-SEO%20Strategy-FF6B35?style=flat-square&logo=seo&logoColor=white)
+![Strategic Planning](https://img.shields.io/badge/-Strategic%20Planning-10B981?style=flat-square&logo=strategy&logoColor=white)
+
+**Science & Research**  
+![Biotech](https://img.shields.io/badge/-Biotech-059669?style=flat-square&logo=biotech&logoColor=white)
+![Pharmaceutical](https://img.shields.io/badge/-Pharmaceutical-7C3AED?style=flat-square&logo=pharma&logoColor=white)
+![Longevity Research](https://img.shields.io/badge/-Longevity%20Research-F59E0B?style=flat-square&logo=research&logoColor=white)
+
+**Languages**  
+![Croatian](https://img.shields.io/badge/-Croatian%20(Native)-1E40AF?style=flat-square&logo=croatia&logoColor=white)
+![English](https://img.shields.io/badge/-English%20(C2)-DC2626?style=flat-square&logo=english&logoColor=white)
+![Serbian](https://img.shields.io/badge/-Serbian%20(C2)-059669?style=flat-square&logo=serbia&logoColor=white)
+![Slovenian](https://img.shields.io/badge/-Slovenian%20(B2)-7C3AED?style=flat-square&logo=slovenia&logoColor=white)
+![Bulgarian](https://img.shields.io/badge/-Bulgarian%20(B1)-F59E0B?style=flat-square&logo=bulgaria&logoColor=white)
 
 ---
 ## 🚀 Featured Projects  
 
-### 🎨 Personal Portfolio  
-My **personal portfolio** to showcase my skills, projects, and experience. Designed with **modern UI principles** and deployed on Vercel.  
-🔗 **Live Demo:** [Vice.contact](https://vice.contact/)  
-
 ### 🏦 Global Finance Guarantee
-A **Tier-1 bank guarantee platform** built with **Next.js, Tailwind CSS, and TypeScript**. Offers bank guarantees, SBLCs, and Letters of Credit.  
+**Program Director & Full-Stack Developer** | Bulgaria | 2025-Present  
+Directed the build and deployment of a modern, SEO-optimized fintech platform specializing in bank guarantees, SBLCs, and trade finance solutions. Integrated Next.js 15, TypeScript, Tailwind CSS, and Framer Motion.  
 🔗 **Live Demo:** [Global Finance Guarantee](https://www.globalfinanceguarantee.com/)  
 
-### 🏦 Heritage Cayman Bank  
-A **simulated banking platform** built with **Next.js, ShadCN UI, Tailwind CSS, and Framer Motion**.  
-Offers an immersive experience emulating online banking interfaces with smooth animations and responsive design.  
-🔗 **Live Demo:** [Heritage Cayman Bank](https://hltd.vercel.app/)  
-
-### 💰 Cayora Finance
-A **full-stack financial platform** with **tRPC, NextAuth, and PostgreSQL** for secure financial operations.  
-🔗 **Live Demo:** [Cayora Finance](https://cayorafinance.com/)  
+### 🧪 ViraChemical
+**Founder & Full-Stack Developer** | Croatia | 2025-Present  
+Created an EU-compliant research compound distribution platform for biotech and pharmaceutical markets. Managed full-stack development, security, and backend infrastructure for catalog, ordering, and compliance modules.  
+🔗 **Live Demo:** [ViraChemical](https://virachemical.com)  
 
 ### ⛓️ Master of Complications
-An **advanced Web3 platform** with authentication and complex data management using **Next.js, tRPC, NextAuth, TypeScript, and Tailwind CSS**.  
+**Full-Stack Developer** | Bulgaria | 2025  
+Delivered a full-stack e-commerce system for medical store client with tRPC, PostgreSQL, and secure backend protocols. Built comprehensive admin panel, robust user-facing UI, and implemented multiple layers of application security.  
 🔗 **Live Demo:** [Master of Complications](https://masterofcomplications.guru/)  
 
-### 🔍 BG Lookup
-A **CSV parsing and data management tool** with modern UI components and efficient data processing.  
-🔗 **Live Demo:** [BG Lookup](https://bglookup.vercel.app/)  
-
-### ✅ BG EGN Validator
-An **advanced data validation and processing platform** with intuitive user interface.  
-🔗 **Live Demo:** [BG EGN Validator](https://bgegn.vercel.app/)  
-
-### 🧪 ViraChemical  
-A **comprehensive chemical management system** built with **Python Django and PostgreSQL**, featuring secure operations and inventory management.  
-🔗 **Live Demo:** [Virachemical](https://virachemical.com)  
-
-### 💼 Gencoders.digital  
-A **digital agency** website offering realtor lead generation services with **Python Flask backend**.  
-🔗 **Live Demo:** [gencoders.digital](https://gencoders.digital)  
-
-### 🏢 Walls Agency  
-A **web development agency** website showcasing services and past projects. Built with **Vue.js, Tailwind CSS, and Vercel** for fast performance and a sleek UI.  
-🔗 **Live Demo:** [Walls Agency](https://wallsagency-Vice1s-projects.vercel.app/)  
-
-### 🏢 GDN Solution
-An **enterprise business solution platform** with comprehensive service offerings and client management.  
-🔗 **Live Demo:** [GDN Solution](https://gdnsolution.com/)  
-
 ### 🛒 Buati Price
-An **e-commerce pricing platform** with dynamic pricing algorithms and user-friendly interface.  
+**Web Developer** | Laravel/PHP/MySQL | 2024-2025  
+E-commerce pricing platform with dynamic pricing algorithms and user-friendly interface.  
 🔗 **Live Demo:** [Buati Price](https://buatiprice.com/)  
 
-### 📦 Alpha Cargo Line
-A **professional cargo and logistics management platform** with tracking and scheduling capabilities.  
-🔗 **Live Demo:** [Alpha Cargo Line](https://alphacargoline.com/)  
+### 🏢 GDN Solution
+**Web Developer** | Laravel/PHP/MySQL | 2024-2025  
+Enterprise business solution platform with comprehensive service offerings and client management.  
+🔗 **Live Demo:** [GDN Solution](https://gdnsolution.com/)  
 
 ### 🤖 ViWatch AI
-An **innovative AI-powered watch platform** with machine learning capabilities and modern interface.  
+**Web Developer** | AI/ML Platform | 2024-2025  
+Innovative AI-powered watch platform with machine learning capabilities and modern interface.  
 🔗 **Live Demo:** [ViWatch AI](https://viwatchai.com/)  
 
+### 🎨 Personal Portfolio
+**Modern Portfolio Website** | React/Vite/Framer Motion | 2025  
+Professional portfolio showcasing skills, projects, and experience with modern animations and responsive design.  
+🔗 **Live Demo:** [Vice.contact](https://vice.contact/)  
+
 ---
-## 💼 Experience
+## 💼 Professional Experience
 
-**Senior Full Stack Developer** at DevDone.io (2022 - Present)  
-Leading development of complex web applications using Next.js, TypeScript, and modern frameworks. Specializing in FinTech solutions, AI integration, and scalable architecture design.
+**Program Director & Full-Stack Developer** | Global Finance Guarantee – Bulgaria | 2025–Present  
+• Directed the build and deployment of a modern, SEO-optimized fintech platform specializing in bank guarantees, SBLCs, and trade finance solutions.  
+• Integrated Next.js 15, TypeScript, Tailwind CSS, and Framer Motion for superior performance and visual impact.  
+• Designed a lead-generation-first structure, responsive mobile UX, and comprehensive structured data.
 
-**Full Stack Developer** - Freelance & Agency Work (2021 - Present)  
-Delivered 14+ successful projects including banking platforms, e-commerce solutions, and AI-powered applications. Expertise in React, Next.js, Python, and modern development practices.
+**Founder & Full-Stack Developer** | ViraChemical – Croatia | 2025–Present  
+• Created an EU-compliant research compound distribution platform for biotech and pharmaceutical markets.  
+• Managed full-stack development, security, and backend infrastructure for catalog, ordering, and compliance modules.
 
-**Frontend Specialist** at Walls Agency (2021 - 2022)  
-Developed responsive web applications using Vue.js and React. Focused on creating pixel-perfect designs and optimizing user experience across multiple client projects.
+**Full-Stack Developer** | Master of Complications – Bulgaria | 2025  
+• Delivered a full-stack e-commerce system for medical store client with tRPC, PostgreSQL, and secure backend protocols.  
+• Built a comprehensive admin panel, robust user-facing UI, and implemented multiple layers of application security.
+
+**Web Developer** | Various Clients (Kenya, Thailand, Bulgaria, Croatia) | 2024–2025  
+• Developed buatiprice.com and gdnsolution.com in Laravel/PHP/MySQL.  
+• Built AI-powered watch platform (viwatchai.com) with machine learning capabilities and modern UI.  
+• Delivered custom admin panels and mobile-optimized UIs for e-commerce and finance applications.
 
 ---
 ## 🎯 Services
 
-- **Full Stack Development** - Modern web applications with Next.js, React, TypeScript
-- **FinTech Solutions** - Banking platforms and financial applications
-- **AI Integration** - Machine learning and AI features for web applications
-- **Enterprise Solutions** - Business process automation and custom applications
-- **DevOps & Deployment** - Cloud infrastructure and CI/CD pipelines
+- **FinTech Platform Development** - Banking & trade finance solutions with Next.js 15, TypeScript, and advanced security
+- **Biotech & Research Platforms** - EU-compliant distribution systems for pharmaceutical markets
+- **E-commerce & Medical Platforms** - Secure healthcare solutions with tRPC, PostgreSQL, and multi-layer security
+- **AI-Powered Applications** - Machine learning integration and intelligent user experiences
+- **Strategic Program Direction** - End-to-end project leadership and cross-border project management
+
+---
+## 🎓 Education
+
+**BSc in Finance** (In Progress) | Faculty of Economics, University of Rijeka (EFRI), Croatia  
+Currently pursuing a Bachelor of Science in Finance, combining academic knowledge with practical experience in fintech and financial platforms.
+
+**High School Diploma** | Archdiocesan Classical High School "Don Frane Bulić" – Split, Croatia | 2020-2023  
+Completed secondary education with focus on classical studies and academic excellence.
+
+---
+## 🌍 Cross-Border Experience
+
+**Multi-lingual communicator** with cross-border project management experience in:
+- 🇭🇷 Croatia (Native)
+- 🇧🇬 Bulgaria (FinTech & Medical platforms)
+- 🇰🇪 Kenya (Web development projects)
+- 🇹🇭 Thailand (International collaborations)
+
+---
+## 🔒 Security & Compliance
+
+**Advanced Security Implementation:**
+- CSRF, XSS, SQL Injection, IDOR protection
+- EU-compliant research compound platforms
+- Secure backend protocols and admin panels
+- Data protection and threat prevention strategies
 
 ---
 
@@ -135,4 +145,6 @@ Developed responsive web applications using Vue.js and React. Focused on creatin
 
 📩 **Let's Connect!**  
 📧 [Email Me](vice@vice.contact)  
-🌍 [Portfolio](https://vice.contact/) # viceculjakporfoliosite
+🌍 [Portfolio](https://vice.contact/)  
+📍 Split, Croatia | +385 99 677 5931  
+🔗 [LinkedIn](https://linkedin.com/in/vice-culjak) # viceculjakporfoliosite
