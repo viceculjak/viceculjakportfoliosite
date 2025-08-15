@@ -41,10 +41,6 @@ export const links = [
     path: 'pricing',
   },
   {
-    name: 'Blog',
-    path: 'blog',
-  },
-  {
     name: 'Contact',
     path: 'contact',
   },

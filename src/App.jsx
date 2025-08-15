@@ -2,7 +2,7 @@ import './App.css'
 import { HelmetProvider } from 'react-helmet-async'
 import SEOHead from './components/seo/SEOHead'
 import SEOAdmin from './components/seo/SEOAdmin'
-import Blog from './components/blog/Blog'
+
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import Header from './components/header/Header'
@@ -28,7 +28,6 @@ function App() {
         <Resume/>
         <Testimonials/>
         <Pricing/>
-        <Blog/>
         <Contact/>
         <Footer/>
       </div>
