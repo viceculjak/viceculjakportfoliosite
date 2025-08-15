@@ -127,16 +127,6 @@ Completed secondary education with focus on classical studies and academic excel
 
 ---
 
-### 📊 GitHub Stats
-
-![Vice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vice1&show_icons=true&theme=radical)
-
-### 🚀 GitHub Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vice1&layout=compact&theme=radical)
-
----
-
 📩 **Let's Connect!**  
 📧 [Email Me](vice@vice.contact)  
 🌍 [Portfolio](https://vice.contact/)  
