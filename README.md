@@ -64,11 +64,6 @@ E-commerce pricing platform with dynamic pricing algorithms and user-friendly in
 Enterprise business solution platform with comprehensive service offerings and client management.  
 🔗 **Live Demo:** [GDN Solution](https://gdnsolution.com/)  
 
-### 🤖 ViWatch AI
-**Web Developer** | AI/ML Platform | 2024-2025  
-Innovative AI-powered watch platform with machine learning capabilities and modern interface.  
-🔗 **Live Demo:** [ViWatch AI](https://viwatchai.com/)  
-
 ### 🎨 Personal Portfolio
 **Modern Portfolio Website** | React/Vite/Framer Motion | 2025  
 Professional portfolio showcasing skills, projects, and experience with modern animations and responsive design.  
@@ -92,7 +87,6 @@ Professional portfolio showcasing skills, projects, and experience with modern a
 
 **Web Developer** | Various Clients (Kenya, Thailand, Bulgaria, Croatia) | 2024–2025  
 • Developed buatiprice.com and gdnsolution.com in Laravel/PHP/MySQL.  
-• Built AI-powered watch platform (viwatchai.com) with machine learning capabilities and modern UI.  
 • Delivered custom admin panels and mobile-optimized UIs for e-commerce and finance applications.
 
 ---

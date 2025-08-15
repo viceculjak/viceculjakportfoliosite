@@ -224,17 +224,9 @@ export const projects = [
     link: 'https://gencoders.digital/',
     tech: ['Python', 'Flask', 'Tailwind CSS', 'Lead Generation']
   },
+
   {
     id: 9,
-    img: Project3,
-    category: 'Agency',
-    title: 'Walls Agency',
-    description: 'Professional web development agency showcase with Vue.js and modern design principles.',
-    link: 'https://wallsagency-Vice1s-projects.vercel.app/',
-    tech: ['Vue.js', 'Tailwind CSS', 'Vercel', 'Modern UI']
-  },
-  {
-    id: 10,
     img: Project4,
     category: 'Business',
     title: 'GDN Solution',
@@ -243,7 +235,7 @@ export const projects = [
     tech: ['PHP', 'Laravel', 'MySQL', 'Enterprise']
   },
   {
-    id: 11,
+    id: 10,
     img: Project5,
     category: 'E-commerce',
     title: 'Buati Price',
@@ -252,7 +244,7 @@ export const projects = [
     tech: ['PHP', 'Laravel', 'MySQL', 'E-commerce']
   },
   {
-    id: 12,
+    id: 11,
     img: Project6,
     category: 'Logistics',
     title: 'Alpha Cargo Line',
@@ -261,16 +253,7 @@ export const projects = [
     tech: ['React', 'Node.js', 'Logistics', 'Tracking']
   },
   {
-    id: 13,
-    img: Project1,
-    category: 'AI/ML',
-    title: 'ViWatch AI',
-    description: 'Innovative AI-powered watch platform with machine learning capabilities and modern interface.',
-    link: 'https://viwatchai.com/',
-    tech: ['AI/ML', 'React', 'Python', 'Machine Learning']
-  },
-  {
-    id: 14,
+    id: 12,
     img: Project2,
     category: 'Portfolio',
     title: 'Personal Portfolio',
