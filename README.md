@@ -104,7 +104,7 @@ Professional portfolio showcasing skills, projects, and experience with modern a
 **BSc in Finance** (In Progress) | Faculty of Economics, University of Rijeka (EFRI), Croatia  
 Currently pursuing a Bachelor of Science in Finance, combining academic knowledge with practical experience in fintech and financial platforms.
 
-**High School Diploma** | Archdiocesan Classical High School "Don Frane Bulić" – Split, Croatia | 2020-2023  
+**High School Diploma** | Archdiocesan Classical High School "Don Frane Bulić" – Split, Croatia | 2016-2020  
 Completed secondary education with focus on classical studies and academic excellence.
 
 ---

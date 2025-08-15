@@ -277,7 +277,7 @@ export const cv = [
     id: 2,
     title: 'High School Diploma',
     subtitle: 'Archdiocesan Classical High School "Don Frane Bulić" – Split, Croatia',
-    date: '2020 - 2023',
+    date: '2016 - 2020',
     description:
       'Completed secondary education with focus on classical studies and academic excellence.',
     category: 'education',
