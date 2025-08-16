@@ -5,6 +5,8 @@ import { BsSun , BsMoon} from 'react-icons/bs';
 import './header.css'
 import { Link, animateScroll } from 'react-scroll';
 import shapeOne from '../../assets/shape-1.png'
+import LanguageSwitcher from '../LanguageSwitcher';
+import { useTranslation } from 'react-i18next';
 
 const getStorageTheme = () =>{
     let theme = 'light-theme';
@@ -21,6 +23,7 @@ const Header = () => {
     const [showMenu, setShowMenu] = useState(false);
     const [scrollNav, setScrollNav] = useState(false)
     const [theme, setTheme] = useState(getStorageTheme())
+    const { t } = useTranslation();
 
     const scrollTop = () =>{
         animateScroll.scrollToTop();
@@ -78,7 +81,7 @@ const Header = () => {
                                         duration={500}
                                         onClick={()=> setShowMenu(!showMenu)} 
                                     >
-                                        {name}
+                                        {t(`navigation.${name.toLowerCase()}`)}
                                     </Link>      
                                 </li>
                             )
@@ -106,6 +109,7 @@ const Header = () => {
             </div>
 
             <div className="nav__btns">
+                <LanguageSwitcher />
                 <div className="theme__toggler" onClick={toggleTheme} >
                    {theme === 'light-theme' ? <BsMoon/> :  <BsSun/>}
                 </div>

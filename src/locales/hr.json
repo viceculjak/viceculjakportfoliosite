@@ -1,0 +1,108 @@
+{
+  "navigation": {
+    "home": "Početna",
+    "services": "Usluge",
+    "skills": "Vještine",
+    "works": "Radovi",
+    "resume": "Životopis",
+    "testimonials": "Preporuke",
+    "pricing": "Cjenik",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "greeting": "Pozdrav, moje ime je",
+    "name": "Vice C.",
+    "role": "Direktor programa i Full-Stack Developer",
+    "experience": "Godina iskustva",
+    "projects": "Završenih projekata",
+    "description": "Inovativni poduzetnik i direktor programa s 5+ godina iskustva specijaliziran za FinTech platforme, biotech istraživačke sustave i strateško upravljanje programima. Ekspert za Next.js 15, TypeScript i Laravel, s dokazanim rezultatima u trgovinskim financijama, EU kompatibilnim platformama i međunarodnim projektima.",
+    "downloadCV": "Preuzmi CV",
+    "mySkills": "Moje vještine"
+  },
+  "services": {
+    "title": "Usluge",
+    "subtitle": "Što radim",
+    "fintech": {
+      "name": "Razvoj FinTech platformi",
+      "title": "Bankarska i trgovinska financijska rješenja",
+      "description": "Izgradnja sigurnih, SEO optimiziranih fintech platformi specijaliziranih za bankarske garancije, SBLC-ove i trgovinske financije. Integrirano s Next.js 15, TypeScript i naprednim sigurnosnim protokolima."
+    },
+    "biotech": {
+      "name": "Biotech i istraživačke platforme",
+      "title": "EU kompatibilni distribucijski sustavi",
+      "description": "Razvoj kompatibilnih platformi za distribuciju istraživačkih spojeva za biotech i farmaceutska tržišta. Full-stack rješenja s sigurnošću, upravljanjem kataloga i regulatornim usklađivanjem."
+    },
+    "ecommerce": {
+      "name": "E-commerce i medicinske platforme",
+      "title": "Sigurna zdravstvena rješenja",
+      "description": "Izgradnja sveobuhvatnih e-commerce sustava za medicinske trgovine s tRPC, PostgreSQL i višeslojnom sigurnošću. Prilagođene admin ploče i korisnička sučelja."
+    },
+    "ai": {
+      "name": "AI aplikacije",
+      "title": "Integracija strojnog učenja",
+      "description": "Razvoj AI aplikacija za potrošače s mogućnostima strojnog učenja, modernim UI i inteligentnim korisničkim iskustvima za različite industrije."
+    },
+    "strategy": {
+      "name": "Strateško upravljanje programima",
+      "title": "End-to-end vođenje projekata",
+      "description": "Vođenje kompletnih životnih ciklusa projekata od koncepta do lansiranja, uključujući SEO strategiju, arhitekturu generiranja potencijalnih klijenata i međunarodno upravljanje projektima."
+    }
+  },
+  "skills": {
+    "title": "Vještine",
+    "subtitle": "Moje sposobnosti",
+    "nextjs": {
+      "name": "Next.js 15",
+      "description": "Najnoviji React framework za fintech aplikacije spremne za produkciju"
+    },
+    "typescript": {
+      "name": "TypeScript",
+      "description": "Type-safe JavaScript za skalabilne aplikacije"
+    },
+    "react": {
+      "name": "React.js",
+      "description": "Modern UI library s hooks i state management"
+    },
+    "tailwind": {
+      "name": "Tailwind CSS",
+      "description": "Utility-first CSS framework za brzi UI razvoj"
+    },
+    "laravel": {
+      "name": "Laravel/PHP",
+      "description": "Robusni backend framework za sigurne aplikacije"
+    },
+    "mysql": {
+      "name": "MySQL",
+      "description": "Pouzdano upravljanje bazom podataka za složene podatke"
+    },
+    "cybersecurity": {
+      "name": "Kibernetička sigurnost",
+      "description": "Napredna implementacija sigurnosti i zaštita"
+    },
+    "seo": {
+      "name": "SEO strategija",
+      "description": "Optimizacija za tražilice i digitalni marketing"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Javite se",
+    "email": "vice@vice.contact",
+    "location": "Split, Hrvatska",
+    "sendMessage": "Pošalji poruku",
+    "name": "Ime",
+    "emailPlaceholder": "Vaš email",
+    "message": "Poruka",
+    "messagePlaceholder": "Vaša poruka"
+  },
+  "footer": {
+    "copyright": "© 2025 Vice C. Sva prava pridržana.",
+    "madeWith": "Napravljeno s ❤️ od strane Vice C."
+  },
+  "language": {
+    "en": "English",
+    "hr": "Hrvatski",
+    "de": "Deutsch",
+    "bg": "Български"
+  }
+}

@@ -7,9 +7,11 @@ import { FaLinkedin , FaTelegram, FaGithub, FaDiscord, FaSkype, FaMedium, FaMail
 import './home.css'
 import CV from '../../assets/Vice_Culjak_CV_Updated.pdf'
 import fiverr from '../../assets/fiverr.png'
+import { useTranslation } from 'react-i18next';
 
 const Home = () => {
-  return (
+    const { t } = useTranslation();
+    return (
     <section className='home' id='home'>
         <div className="home__wrapper">
             <div className="home__container container">
@@ -18,7 +20,7 @@ const Home = () => {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6 }}
                     className="home__subtitle text-cs">
-                    Hello, <span>My Name Is</span>
+                    {t('home.greeting')}
                 </motion.p>
                 <motion.h1 
                     initial={{ opacity: 0, y: 30 }}
@@ -30,7 +32,7 @@ const Home = () => {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6, delay: 0.4 }}
                     className="home__job">
-                    <span className="text-cs">I Am </span><b>Program Director & Full-Stack Developer</b>
+                    <span className="text-cs">I Am </span><b>{t('home.role')}</b>
                 </motion.p>
 
                 <motion.div 
@@ -48,7 +50,7 @@ const Home = () => {
                         transition={{ duration: 0.6, delay: 1.2 }}
                         className="home__data home__data-one">
                         <span className="text-lg">5 <b>+</b></span>
-                        <span className="text-sm text-cs">Years of <span>Experience</span></span>
+                        <span className="text-sm text-cs">{t('home.experience')}</span>
                     </motion.p>
 
                     <motion.p 
@@ -57,7 +59,7 @@ const Home = () => {
                         transition={{ duration: 0.6, delay: 1.4 }}
                         className="home__data home__data-two">
                         <span className="text-lg">20+</span>
-                        <span className="text-sm text-cs">Completed <span>Projects</span></span>
+                        <span className="text-sm text-cs">{t('home.projects')}</span>
                     </motion.p>
 
                     <img src={shapeOne} className="img shape shape__1"/>
@@ -69,7 +71,7 @@ const Home = () => {
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6, delay: 0.6 }}
-                    className="home__text">Innovative entrepreneur and Program Director with 5+ years of experience specializing in FinTech platforms, biotech research systems, and strategic program direction. Expert in Next.js 15, TypeScript, and Laravel, with proven track record in trade finance, EU-compliant platforms, and cross-border project management.</motion.p>
+                    className="home__text">{t('home.description')}</motion.p>
                 
                 <motion.div 
                     initial={{ opacity: 0, y: 20 }}
@@ -94,8 +96,8 @@ const Home = () => {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6, delay: 1.0 }}
                     className="home__btns">
-                    <a download='' href={CV} className="btn text-cs">Download CV</a>
-                    <a href="#skills" className="hero__link text-cs">My Skills</a>
+                    <a download='' href={CV} className="btn text-cs">{t('home.downloadCV')}</a>
+                    <a href="#skills" className="hero__link text-cs">{t('home.mySkills')}</a>
                 </motion.div>
             </div>
 

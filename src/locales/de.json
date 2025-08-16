@@ -1,0 +1,108 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "skills": "Fähigkeiten",
+    "works": "Arbeiten",
+    "resume": "Lebenslauf",
+    "testimonials": "Referenzen",
+    "pricing": "Preise",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "greeting": "Hallo, mein Name ist",
+    "name": "Vice C.",
+    "role": "Programmdirektor & Full-Stack Entwickler",
+    "experience": "Jahre Erfahrung",
+    "projects": "Abgeschlossene Projekte",
+    "description": "Innovativer Unternehmer und Programmdirektor mit über 5 Jahren Erfahrung in der Spezialisierung auf FinTech-Plattformen, Biotech-Forschungssysteme und strategische Programmleitung. Experte für Next.js 15, TypeScript und Laravel mit nachgewiesener Erfolgsbilanz in Handelsfinanzierung, EU-konformen Plattformen und grenzüberschreitendem Projektmanagement.",
+    "downloadCV": "Lebenslauf herunterladen",
+    "mySkills": "Meine Fähigkeiten"
+  },
+  "services": {
+    "title": "Dienstleistungen",
+    "subtitle": "Was ich mache",
+    "fintech": {
+      "name": "FinTech-Plattformentwicklung",
+      "title": "Bank- und Handelsfinanzierungslösungen",
+      "description": "Entwicklung sicherer, SEO-optimierter FinTech-Plattformen für Bankgarantien, SBLCs und Handelsfinanzierung. Integriert mit Next.js 15, TypeScript und fortschrittlichen Sicherheitsprotokollen."
+    },
+    "biotech": {
+      "name": "Biotech- und Forschungsplattformen",
+      "title": "EU-konforme Vertriebssysteme",
+      "description": "Entwicklung konformer Forschungsverbindungsverteilungsplattformen für Biotech- und Pharmamärkte. Full-Stack-Lösungen mit Sicherheit, Katalogverwaltung und regulatorischer Compliance."
+    },
+    "ecommerce": {
+      "name": "E-Commerce und medizinische Plattformen",
+      "title": "Sichere Gesundheitslösungen",
+      "description": "Entwicklung umfassender E-Commerce-Systeme für medizinische Geschäfte mit tRPC, PostgreSQL und mehrschichtiger Sicherheit. Benutzerdefinierte Admin-Panels und benutzerorientierte Schnittstellen."
+    },
+    "ai": {
+      "name": "KI-gestützte Anwendungen",
+      "title": "Maschinelles Lernen Integration",
+      "description": "Entwicklung KI-gestützter Verbraucherplattformen mit maschinellen Lernfähigkeiten, moderner UI und intelligenten Benutzererfahrungen für verschiedene Branchen."
+    },
+    "strategy": {
+      "name": "Strategische Programmleitung",
+      "title": "End-to-End-Projektführung",
+      "description": "Führung vollständiger Projektlebenszyklen von Konzept bis Launch, einschließlich SEO-Strategie, Lead-Generierungsarchitektur und grenzüberschreitendem Projektmanagement."
+    }
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "subtitle": "Meine Kompetenzen",
+    "nextjs": {
+      "name": "Next.js 15",
+      "description": "Neuestes React-Framework für produktionsreife FinTech-Anwendungen"
+    },
+    "typescript": {
+      "name": "TypeScript",
+      "description": "Type-safe JavaScript für skalierbare Anwendungen"
+    },
+    "react": {
+      "name": "React.js",
+      "description": "Moderne UI-Bibliothek mit Hooks und State Management"
+    },
+    "tailwind": {
+      "name": "Tailwind CSS",
+      "description": "Utility-First CSS-Framework für schnelle UI-Entwicklung"
+    },
+    "laravel": {
+      "name": "Laravel/PHP",
+      "description": "Robustes Backend-Framework für sichere Anwendungen"
+    },
+    "mysql": {
+      "name": "MySQL",
+      "description": "Zuverlässige Datenbankverwaltung für komplexe Daten"
+    },
+    "cybersecurity": {
+      "name": "Cybersicherheit",
+      "description": "Fortschrittliche Sicherheitsimplementierung und Schutz"
+    },
+    "seo": {
+      "name": "SEO-Strategie",
+      "description": "Suchmaschinenoptimierung und digitales Marketing"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontakt aufnehmen",
+    "email": "vice@vice.contact",
+    "location": "Split, Kroatien",
+    "sendMessage": "Nachricht senden",
+    "name": "Name",
+    "emailPlaceholder": "Ihre E-Mail",
+    "message": "Nachricht",
+    "messagePlaceholder": "Ihre Nachricht"
+  },
+  "footer": {
+    "copyright": "© 2025 Vice C. Alle Rechte vorbehalten.",
+    "madeWith": "Gemacht mit ❤️ von Vice C."
+  },
+  "language": {
+    "en": "English",
+    "hr": "Hrvatski",
+    "de": "Deutsch",
+    "bg": "Български"
+  }
+}
