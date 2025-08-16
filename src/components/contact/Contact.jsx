@@ -2,8 +2,10 @@ import React, { useState } from 'react';
 import { FaRegAddressBook, FaRegUser, FaRegEnvelope, FaRegMap } from "react-icons/fa";
 import './contact.css';
 import shapeOne from '../../assets/shape-1.png';
+import { useTranslation } from 'react-i18next';
 
 const Contact = () => {
+    const { t } = useTranslation();
     const [form, setForm] = useState({name: '', email: '', subject: '', message: ''});
     const [successMessage, setSuccessMessage] = useState('');
 
@@ -24,19 +26,19 @@ const Contact = () => {
             body: JSON.stringify(form)
         }).then((response) => {
             if (response.ok) {
-                setSuccessMessage('Your message has been sent successfully!');
+                setSuccessMessage(t('contact.successMessage'));
                 setForm({name: '', email: '', subject: '', message: ''});
             } else {
-                setSuccessMessage('Oops! Something went wrong.');
+                setSuccessMessage(t('contact.errorMessage'));
             }
         });
     };
 
     return (
         <section className="contact section" id="contact">
-            <h2 className="section__title text-cs">Contact Me</h2>
+            <h2 className="section__title text-cs">{t('contact.title')}</h2>
             <p className="section__subtitle">
-                Let's <span>Launch Your Idea!</span>
+                {t('contact.subtitle')}
             </p>
 
             <div className="contact__container container grid">
@@ -45,23 +47,23 @@ const Contact = () => {
                         <span className="contact__card-icon">
                             <FaRegMap />
                         </span>
-                        <h3 className="contact__card-title">Location</h3>
-                        <p className="contact__card-data">Bulgaria</p>
+                        <h3 className="contact__card-title">{t('contact.locationTitle')}</h3>
+                        <p className="contact__card-data">{t('contact.location')}</p>
                     </div>
 
                     <div className="contact__card">
                         <span className="contact__card-icon">
                             <FaRegUser />
                         </span>
-                        <h3 className="contact__card-title">Freelance</h3>
-                        <p className="contact__card-data">Available To Work</p>
+                        <h3 className="contact__card-title">{t('contact.freelance')}</h3>
+                        <p className="contact__card-data">{t('contact.available')}</p>
                     </div>
 
                     <div className="contact__card">
                         <span className="contact__card-icon">
                             <FaRegEnvelope />
                         </span>
-                        <h3 className="contact__card-title">Email</h3>
+                        <h3 className="contact__card-title">{t('contact.emailTitle')}</h3>
                         <p className="contact__card-data">vice@vice.contact</p>
                     </div>
                 </div>
@@ -69,34 +71,34 @@ const Contact = () => {
                 <form className="contact__form" onSubmit={handleSubmit}>
                     <div className="contact__form-group grid">
                         <div className="contact__form-div">
-                            <label className="contact__form-tag text-cs">Your Full Name <b>*</b></label>
+                            <label className="contact__form-tag text-cs">{t('contact.name')} <b>*</b></label>
                             <input type="text" name='name' value={form.name}
                                 onChange={handleChange}
                                 className="contact__form-input" required />
                         </div>
 
                         <div className="contact__form-div">
-                            <label className="contact__form-tag text-cs">Your Email Address <b>*</b></label>
+                            <label className="contact__form-tag text-cs">{t('contact.emailPlaceholder')} <b>*</b></label>
                             <input type="email" name='email' value={form.email}
                                 onChange={handleChange} className="contact__form-input" required />
                         </div>
                     </div>
 
                     <div className="contact__form-div">
-                        <label className="contact__form-tag text-cs">Your Subject <b>*</b></label>
+                        <label className="contact__form-tag text-cs">{t('contact.subject')} <b>*</b></label>
                         <input type="text" name='subject' value={form.subject}
                             onChange={handleChange} className="contact__form-input" required />
                     </div>
 
                     <div className="contact__form-div contact__form-area">
-                        <label className="contact__form-tag text-cs">Your Message<b>*</b></label>
+                        <label className="contact__form-tag text-cs">{t('contact.message')}<b>*</b></label>
                         <textarea className='contact__form-input' name='message' value={form.message}
                             onChange={handleChange} required></textarea>
                     </div>
 
                     <div className="contact__submit">
-                        <p>* Accept the terms and conditions.</p>
-                        <button type='submit' className='btn text-cs'>Send Message</button>
+                        <p>{t('contact.terms')}</p>
+                        <button type='submit' className='btn text-cs'>{t('contact.sendMessage')}</button>
                     </div>
                     {successMessage && <p className="success-message">{successMessage}</p>}
                 </form>

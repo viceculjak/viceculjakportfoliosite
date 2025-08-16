@@ -5,10 +5,12 @@ import {projects} from '../../Data'
 import './portfolio.css'
 import { AnimatePresence } from 'framer-motion'
 import shapeOne from '../../assets/shape-1.png'
+import { useTranslation } from 'react-i18next';
 
 const allNavList = ['all', ...new Set(projects.map((project)=> project.category ))]
 
 const Portfolio = () => {
+    const { t } = useTranslation();
     const [projectItems, setMenuItems] = useState(projects);
     const [navList, setCategories] = useState(allNavList);
 
@@ -26,9 +28,9 @@ const Portfolio = () => {
     }
   return (
     <section className="portfolio section" id="work">
-         <h2 className="section__title text-cs">Portfolio</h2>
+         <h2 className="section__title text-cs">{t('navigation.works')}</h2>
         <p className="section__subtitle">
-            My <span>Cases</span>
+            My <span>{t('portfolio.cases')}</span>
         </p>
         <List list={navList} filterItems={filterItems}/>
         <div className="portfolio__container container grid">

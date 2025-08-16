@@ -85,19 +85,35 @@
     }
   },
   "contact": {
-    "title": "Kontakt",
-    "subtitle": "Kontakt aufnehmen",
+    "title": "Kontaktieren Sie mich",
+    "subtitle": "Lassen Sie uns Ihre Idee verwirklichen!",
     "email": "vice@vice.contact",
     "location": "Split, Kroatien",
     "sendMessage": "Nachricht senden",
-    "name": "Name",
-    "emailPlaceholder": "Ihre E-Mail",
-    "message": "Nachricht",
-    "messagePlaceholder": "Ihre Nachricht"
+    "name": "Ihr vollständiger Name",
+    "emailPlaceholder": "Ihre E-Mail-Adresse",
+    "subject": "Ihr Betreff",
+    "message": "Ihre Nachricht",
+    "messagePlaceholder": "Ihre Nachricht",
+    "freelance": "Freiberufler",
+    "available": "Verfügbar für Arbeit",
+    "locationTitle": "Standort",
+    "emailTitle": "E-Mail",
+    "terms": "* Akzeptieren Sie die Bedingungen und Konditionen.",
+    "successMessage": "Ihre Nachricht wurde erfolgreich gesendet!",
+    "errorMessage": "Hoppla! Etwas ist schiefgelaufen."
   },
   "footer": {
     "copyright": "© 2025 Vice C. Alle Rechte vorbehalten.",
     "madeWith": "Gemacht mit ❤️ von Vice C."
+  },
+  "resume": {
+    "education": "Ausbildung",
+    "experience": "Erfahrung",
+    "story": "Geschichte"
+  },
+  "portfolio": {
+    "cases": "Fälle"
   },
   "language": {
     "en": "English",

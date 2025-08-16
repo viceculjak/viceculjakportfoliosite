@@ -3,11 +3,13 @@ import shapeTwo from '../../assets/shape-2.png'
 import './pricing.css'
 import { FaCheck , FaArrowRight} from 'react-icons/fa'
 import shapeOne from '../../assets/shape-1.png'
+import { useTranslation } from 'react-i18next';
 
 const Pricing = () => {
+  const { t } = useTranslation();
   return (
     <section className="pricing section" id="pricing">
-        <h2 className="section__title text-cs">Pricing</h2>
+        <h2 className="section__title text-cs">{t('navigation.pricing')}</h2>
         <p className="section__subtitle">
             My <span>Service Packages</span>
         </p>

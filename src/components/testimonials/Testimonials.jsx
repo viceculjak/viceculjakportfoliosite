@@ -3,6 +3,7 @@ import shapeTwo from '../../assets/shape-2.png'
 import testimonialIcon from '../../assets/testimonials-icon.svg'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import shapeOne from '../../assets/shape-1.png'
+import { useTranslation } from 'react-i18next';
 
 // Import Swiper styles
 import 'swiper/css';
@@ -12,9 +13,10 @@ import './testimonials.css'
 import { testimonials } from '../../Data';
 
 const Testimonials = () => {
+  const { t } = useTranslation();
   return (
     <section className='testimonials section' id="testimonial">
-        <h2 className="section__title text-cs">Testimonials</h2>
+        <h2 className="section__title text-cs">{t('navigation.testimonials')}</h2>
         <p className="section__subtitle">
             My <span>Customers Say</span>
         </p>

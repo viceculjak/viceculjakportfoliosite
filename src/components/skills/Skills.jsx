@@ -2,13 +2,15 @@ import React from 'react'
 import {skills} from '../../Data'
 import './skills.css'
 import shapeOne from '../../assets/shape-1.png'
+import { useTranslation } from 'react-i18next';
 
 const Skills = () => {
+  const { t } = useTranslation();
   return (
     <section className="skills section" id="skills">
-        <h2 className="section__title text-cs">Professional Skills</h2>
+        <h2 className="section__title text-cs">{t('skills.subtitle')}</h2>
         <p className="section__subtitle">
-            My <span>Talent</span>
+            {t('skills.title')}
         </p>
 
         <div className="skills__container container grid">

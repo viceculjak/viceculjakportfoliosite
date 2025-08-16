@@ -85,19 +85,35 @@
     }
   },
   "contact": {
-    "title": "Kontakt",
-    "subtitle": "Javite se",
+    "title": "Kontaktirajte me",
+    "subtitle": "Pokrenimo vašu ideju!",
     "email": "vice@vice.contact",
     "location": "Split, Hrvatska",
     "sendMessage": "Pošalji poruku",
-    "name": "Ime",
-    "emailPlaceholder": "Vaš email",
-    "message": "Poruka",
-    "messagePlaceholder": "Vaša poruka"
+    "name": "Vaše puno ime",
+    "emailPlaceholder": "Vaša email adresa",
+    "subject": "Vaš predmet",
+    "message": "Vaša poruka",
+    "messagePlaceholder": "Vaša poruka",
+    "freelance": "Slobodan umjetnik",
+    "available": "Dostupan za rad",
+    "locationTitle": "Lokacija",
+    "emailTitle": "Email",
+    "terms": "* Prihvatite uvjete i odredbe.",
+    "successMessage": "Vaša poruka je uspješno poslana!",
+    "errorMessage": "Ups! Nešto je pošlo po krivu."
   },
   "footer": {
     "copyright": "© 2025 Vice C. Sva prava pridržana.",
     "madeWith": "Napravljeno s ❤️ od strane Vice C."
+  },
+  "resume": {
+    "education": "Obrazovanje",
+    "experience": "Iskustvo",
+    "story": "Priča"
+  },
+  "portfolio": {
+    "cases": "Slučajevi"
   },
   "language": {
     "en": "English",

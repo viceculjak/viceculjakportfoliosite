@@ -3,18 +3,20 @@ import { cv } from '../../Data'
 import Card from './Card'
 import './resume.css'
 import shapeOne from '../../assets/shape-1.png'
+import { useTranslation } from 'react-i18next';
 
 const Resume = () => {
+  const { t } = useTranslation();
   return (
     <section className="resume" id="resume">
-         <h2 className="section__title text-cs">Resume</h2>
+         <h2 className="section__title text-cs">{t('navigation.resume')}</h2>
         <p className="section__subtitle">
-            My <span>Story</span>
+            My <span>{t('resume.story')}</span>
         </p>
 
         <div className="resume__container container grid">
             <div className="resume__group">
-                <h3 className="resume__heading">Education</h3>
+                <h3 className="resume__heading">{t('resume.education')}</h3>
 
                 <div className="resume__items">
                     {cv.map((val,id)=>{
@@ -26,7 +28,7 @@ const Resume = () => {
             </div>
 
             <div className="resume__group">
-                <h3 className="resume__heading">Experience</h3>
+                <h3 className="resume__heading">{t('resume.experience')}</h3>
 
                 <div className="resume__items">
                     {cv.map((val,id)=>{

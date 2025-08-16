@@ -85,19 +85,35 @@
     }
   },
   "contact": {
-    "title": "Контакт",
-    "subtitle": "Свържете се",
+    "title": "Свържете се с мен",
+    "subtitle": "Нека реализираме вашата идея!",
     "email": "vice@vice.contact",
     "location": "Сплит, Хърватия",
     "sendMessage": "Изпрати съобщение",
-    "name": "Име",
-    "emailPlaceholder": "Вашият имейл",
-    "message": "Съобщение",
-    "messagePlaceholder": "Вашето съобщение"
+    "name": "Вашето пълно име",
+    "emailPlaceholder": "Вашият имейл адрес",
+    "subject": "Вашата тема",
+    "message": "Вашето съобщение",
+    "messagePlaceholder": "Вашето съобщение",
+    "freelance": "Фрийлансър",
+    "available": "Достъпен за работа",
+    "locationTitle": "Локация",
+    "emailTitle": "Имейл",
+    "terms": "* Приемете условията и клаузите.",
+    "successMessage": "Вашето съобщение е изпратено успешно!",
+    "errorMessage": "Упс! Нещо се обърка."
   },
   "footer": {
     "copyright": "© 2025 Vice C. Всички права запазени.",
     "madeWith": "Направено с ❤️ от Vice C."
+  },
+  "resume": {
+    "education": "Образование",
+    "experience": "Опит",
+    "story": "История"
+  },
+  "portfolio": {
+    "cases": "Случаи"
   },
   "language": {
     "en": "English",
